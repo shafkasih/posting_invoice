@@ -1,6 +1,8 @@
 # posting_invoice
 Financial System 
 
+This Module is about Posting Invoice to General Ledger. Every detail invoice will assign with Debit and Credit for Balancing the Journal.
+
 👋 Hi, I’m @shafkasih
 
 👀 I’m interested in programming with languages PHP
